@@ -1,0 +1,23 @@
+{
+  "name": "nserdashenko/mediocre-project",
+  "description": "Mediocre project",
+  "type": "project",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "Src\\": "src/"
+    }
+  },
+  "minimum-stability": "alpha",
+  "prefer-stable": true,
+  "authors": [
+    {
+      "name": "Nikita Serdashenko",
+      "email": "serdasheko@mail.ru"
+    }
+  ],
+  "require": {
+    "php": ">=8.1",
+    "nserdashenko/mediocre": "dev-master"
+  }
+}
