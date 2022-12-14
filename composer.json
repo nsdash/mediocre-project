@@ -18,6 +18,7 @@
   ],
   "require": {
     "php": ">=8.1",
-    "nserdashenko/mediocre": "dev-master"
+    "nserdashenko/mediocre": "dev-master",
+    "ext-pdo": "*"
   }
 }
